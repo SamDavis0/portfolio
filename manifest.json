@@ -1,0 +1,7 @@
+{
+  "short_name": "Portfolio",
+  "name": "Sam's Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#202833"
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8c607328.css",
+    "main.js": "/portfolio/static/js/main.edcef843.js",
+    "static/media/picofme.jpg": "/portfolio/static/media/picofme.d376f2099a4c35500e54.jpg",
+    "static/media/Sam_Davis_Resume_2022.pdf": "/portfolio/static/media/Sam_Davis_Resume_2022.808b477fce8ff62c0366.pdf",
+    "static/media/working.png": "/portfolio/static/media/working.02b2926c93f2729029cc.png",
+    "index.html": "/portfolio/index.html",
+    "main.8c607328.css.map": "/portfolio/static/css/main.8c607328.css.map",
+    "main.edcef843.js.map": "/portfolio/static/js/main.edcef843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c607328.css",
+    "static/js/main.edcef843.js"
+  ]
+}
